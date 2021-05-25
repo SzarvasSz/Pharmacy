@@ -1,0 +1,173 @@
+{
+    "data": [
+  {
+    "Gyógyszer neve": "Metformin",
+    "Dózis": "2-3x 500-850mg"
+  },
+  {
+    "Gyógyszer neve": "Levothyroxin",
+    "Dózis": "25-150 μg"
+  },
+  {
+    "Gyógyszer neve": "Metamizol",
+    "Dózis": "500-1000mg"
+  },
+  {
+    "Gyógyszer neve": "Ibuprofen",
+    "Dózis": "1-4x 200-600mg"
+  },
+  {
+    "Gyógyszer neve": "Diklofenák",
+    "Dózis": "2-3x 50mg"
+  },
+  {
+    "Gyógyszer neve": "Paracetamol",
+    "Dózis": "1-4x 500-1000mg"
+  },
+  {
+    "Gyógyszer neve": "Morfin (po)",
+    "Dózis": "2x 30-100mg"
+  },
+  {
+    "Gyógyszer neve": "Morfin(sc,iv)",
+    "Dózis": "10mg"
+  },
+  {
+    "Gyógyszer neve": "Pentoprasol",
+    "Dózis": "1-2x 20-40mg"
+  },
+  {
+    "Gyógyszer neve": "Famotidin",
+    "Dózis": "2x 20mg || 1x 40 mg"
+  },
+  {
+    "Gyógyszer neve": "Atropin",
+    "Dózis": "0.3-1mg"
+  },
+  {
+    "Gyógyszer neve": "Diazepán",
+    "Dózis": "5-10mg/30mg"
+  },
+  {
+    "Gyógyszer neve": "Alaprozolam",
+    "Dózis": "2-3x 0.25-0.5mg"
+  },
+  {
+    "Gyógyszer neve": "Citalopram",
+    "Dózis": "1x20mg"
+  },
+  {
+    "Gyógyszer neve": "Amoxicillin",
+    "Dózis": "3x 500-1000mg"
+  },
+  {
+    "Gyógyszer neve": "Doxicyklin",
+    "Dózis": "1.nap 200mg => 1x - 100mg"
+  },
+  {
+    "Gyógyszer neve": "Azithromycin",
+    "Dózis": "3 napig 1x 500mg"
+  },
+  {
+    "Gyógyszer neve": "Amlodipin",
+    "Dózis": "1x 5-10mg"
+  },
+  {
+    "Gyógyszer neve": "HCT-Hypertonia",
+    "Dózis": "6.25-25mg"
+  },
+  {
+    "Gyógyszer neve": "HCT-Szívelégtelenség",
+    "Dózis": "25-100mg"
+  },
+  {
+    "Gyógyszer neve": "Furosemid",
+    "Dózis": "k:20-40mg f:40-200mg"
+  },
+  {
+    "Gyógyszer neve": "Bumektanid",
+    "Dózis": "k:0,5-1mg f:1-5 mg"
+  },
+  {
+    "Gyógyszer neve": "Torasemid",
+    "Dózis": "k:5-10mg f:10-20mg"
+  },
+  {
+    "Gyógyszer neve": "Indapamid",
+    "Dózis": "k:2,5mg f:2,5-5mg"
+  },
+  {
+    "Gyógyszer neve": "Amilorid",
+    "Dózis": "k:2,5mg f:5-10mg"
+  },
+  {
+    "Gyógyszer neve": "Triamteren",
+    "Dózis": "k:25mg f:100mg"
+  },
+  {
+    "Gyógyszer neve": "Captopril",
+    "Dózis": "k:3x 6.25mg max: 3x 50"
+  },
+  {
+    "Gyógyszer neve": "Enalapril",
+    "Dózis": "k:2x 2.5mg max: 2x10-20mg"
+  },
+  {
+    "Gyógyszer neve": "Lisinopril",
+    "Dózis": "k:1x 2.5-5mg max: 1x20-35mg"
+  },
+  {
+    "Gyógyszer neve": "Ramipril",
+    "Dózis": "k: 1x 2.5 mg max: 1x10 mg"
+  },
+  {
+    "Gyógyszer neve": "Trandolopril",
+    "Dózis": "k: 1x 0.5 mg max: 1x4 mg"
+  },
+  {
+    "Gyógyszer neve": "Bisoprolol",
+    "Dózis": "k: 1x 2.5 mg max: 1x 10 mg"
+  },
+  {
+    "Gyógyszer neve": "Carvedilol",
+    "Dózis": "k: 2 x 3.125 mg max: 2x25mg"
+  },
+  {
+    "Gyógyszer neve": "Metoprolol",
+    "Dózis": "k: 1x 12.5-25 mg max: 1x200 mg"
+  },
+  {
+    "Gyógyszer neve": "Nebivolol",
+    "Dózis": "k: 1x1.25 mg max: 1x 10 mg"
+  },
+  {
+    "Gyógyszer neve": "Eplerenon",
+    "Dózis": "k: 1x25mg max:1x50mg"
+  },
+  {
+    "Gyógyszer neve": "Spironolacton",
+    "Dózis": "k: 1x25mg max:1x50mg"
+  },
+  {
+    "Gyógyszer neve": "Candesarta",
+    "Dózis": "k: 1x 4-8mg max: 1x32mg"
+  },
+  {
+    "Gyógyszer neve": "Valsartan",
+    "Dózis": "k: 1x-40mg max: 1x160mg"
+  },
+  {
+    "Gyógyszer neve": "Losartan",
+    "Dózis": "k: 1x-50mg max:1x150mg"
+  },
+  {
+    "Gyógyszer neve": "Sacubitril/Valsartan",
+    "Dózis": "k: 2x-49/51mg max: 2x97/103mg"
+  },
+  {
+    "Gyógyszer neve": "Ivabradin",
+    "Dózis": "k: 2x5mg max: 2x-7.5mg",
+    "Osztály": "bétablokkolok"
+  }
+    ]
+}
